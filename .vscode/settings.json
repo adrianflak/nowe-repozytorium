@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e62c8252-90bc-4ef8-aca2-cde50173ce86/resourceGroups/adrianflak.humanitas_rg_4777/providers/Microsoft.Web/sites/aplikacja180502023",
+    "appService.deploySubpath": "."
+}
